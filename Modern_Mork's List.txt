@@ -1,0 +1,543 @@
+# This is a host-based block list created by me (Mork)
+# Repository @ https://github.com/HiImMork/mork-s-block-list/tree/main
+# 
+# This list mainly contain phisihng websites, gambling websites, websites that potentially contains malware (i.e. piracy websites, modded apk websites), and other annoying websites based on my preference.
+# I highly recommend using this list in tandem with Pete Lowe's (https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus&mimetype=plaintext) and Steven Black's (https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts) Lists for best result. 
+# 
+# If you have complaints with this list then don't use it and fuck off.
+# This is a private project available for public viewing only.
+# 
+# If you have suggestions or problems with this list, you may contact me via Discord (https://discord.com/users/566384603007549480).
+# Spam messages will be ignored and blocked. Please do not attempt.
+# 
+# This list is specifically for AdAway or any adblockers that uses the same format.
+#
+# -/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-
+
+{
+  "sources": [],
+  "blocked": [
+    {
+      "host": "*.1st-kissmanga.com",
+      "enabled": true
+    },
+    {
+      "host": "*.9anime.se",
+      "enabled": true
+    },
+    {
+      "host": "*.9animes.org",
+      "enabled": true
+    },
+    {
+      "host": "*.9animes.ph",
+      "enabled": true
+    },
+    {
+      "host": "*.9anime-tv.com",
+      "enabled": true
+    },
+    {
+      "host": "*.9animetv.to",
+      "enabled": true
+    },
+    {
+      "host": "*.acmarket-app.com",
+      "enabled": true
+    },
+    {
+      "host": "*.adchoices.com",
+      "enabled": true
+    },
+    {
+      "host": "*.alternativeto.net",
+      "enabled": true
+    },
+    {
+      "host": "*.an1.com",
+      "enabled": true
+    },
+    {
+      "host": "*.an1.com.in",
+      "enabled": true
+    },
+    {
+      "host": "*.an1.su",
+      "enabled": true
+    },
+    {
+      "host": "*.androidapksfree.com",
+      "enabled": true
+    },
+    {
+      "host": "*.androidblue.com",
+      "enabled": true
+    },
+    {
+      "host": "*.androidhd.com",
+      "enabled": true
+    },
+    {
+      "host": "*.androidout.com",
+      "enabled": true
+    },
+    {
+      "host": "*.animetime.pw",
+      "enabled": true
+    },
+    {
+      "host": "*.apk.tools",
+      "enabled": true
+    },
+    {
+      "host": "*.apkbolt.com",
+      "enabled": true
+    },
+    {
+      "host": "*.apkcombo.com",
+      "enabled": true
+    },
+    {
+      "host": "*.apkdone.co.in",
+      "enabled": true
+    },
+    {
+      "host": "*.apkdone.com",
+      "enabled": true
+    },
+    {
+      "host": "*.apk-done.com",
+      "enabled": true
+    },
+    {
+      "host": "*.apkdone.mobi",
+      "enabled": true
+    },
+    {
+      "host": "*.apkfab.com",
+      "enabled": true
+    },
+    {
+      "host": "*.apkfuel.com",
+      "enabled": true
+    },
+    {
+      "host": "*.apklinker.com",
+      "enabled": true
+    },
+    {
+      "host": "*.apkmodget.com",
+      "enabled": true
+    },
+    {
+      "host": "*.apkmody.com",
+      "enabled": true
+    },
+    {
+      "host": "*.apkmody.fun",
+      "enabled": true
+    },
+    {
+      "host": "*.apkmody.io",
+      "enabled": true
+    },
+    {
+      "host": "*.apkmonk.com",
+      "enabled": true
+    },
+    {
+      "host": "*.apkplanet.net",
+      "enabled": true
+    },
+    {
+      "host": "*.apkresult.com",
+      "enabled": true
+    },
+    {
+      "host": "*.apkresult.net",
+      "enabled": true
+    },
+    {
+      "host": "*.apkshub.com",
+      "enabled": true
+    },
+    {
+      "host": "*.apk-store.org",
+      "enabled": true
+    },
+    {
+      "host": "*.apktoy.com",
+      "enabled": true
+    },
+    {
+      "host": "*.appbrain.com",
+      "enabled": true
+    },
+    {
+      "host": "*.atlaq.com",
+      "enabled": true
+    },
+    {
+      "host": "*.bruss.org.ru",
+      "enabled": true
+    },
+    {
+      "host": "*.bunnycdn.ru",
+      "enabled": true
+    },
+    {
+      "host": "*.business.facebook.com",
+      "enabled": true
+    },
+    {
+      "host": "*.cafebazaar.ir",
+      "enabled": true
+    },
+    {
+      "host": "*.cnet.com",
+      "enabled": true
+    },
+    {
+      "host": "*.dodi-repack.com",
+      "enabled": true
+    },
+    {
+      "host": "*.doditorrent.org",
+      "enabled": true
+    },
+    {
+      "host": "*.download.it",
+      "enabled": true
+    },
+    {
+      "host": "*.fileplanet.com",
+      "enabled": true
+    },
+    {
+      "host": "*.firgirlrepacks.org",
+      "enabled": true
+    },
+    {
+      "host": "*.fitgirl-repack.com",
+      "enabled": true
+    },
+    {
+      "host": "*.fitgirlrepack.games",
+      "enabled": true
+    },
+    {
+      "host": "*.fitgirl-repacks.website",
+      "enabled": true
+    },
+    {
+      "host": "*.getmangahub.com",
+      "enabled": true
+    },
+    {
+      "host": "*.getmodsapk.com",
+      "enabled": true
+    },
+    {
+      "host": "*.getmodsapk.io",
+      "enabled": true
+    },
+    {
+      "host": "*.googleads.com",
+      "enabled": true
+    },
+    {
+      "host": "*.graph.facebook.com",
+      "enabled": true
+    },
+    {
+      "host": "*.guru99.com",
+      "enabled": true
+    },
+    {
+      "host": "*.happymod.cloud",
+      "enabled": true
+    },
+    {
+      "host": "*.happymod.com",
+      "enabled": true
+    },
+    {
+      "host": "*.happy-mod.com",
+      "enabled": true
+    },
+    {
+      "host": "*.happymod.info",
+      "enabled": true
+    },
+    {
+      "host": "*.happymod.pro",
+      "enabled": true
+    },
+    {
+      "host": "*.happymod.to",
+      "enabled": true
+    },
+    {
+      "host": "*.happymodpro.com",
+      "enabled": true
+    },
+    {
+      "host": "*.ihappymod.com",
+      "enabled": true
+    },
+    {
+      "host": "*.izzysoft.de",
+      "enabled": true
+    },
+    {
+      "host": "*.kickass.help",
+      "enabled": true
+    },
+    {
+      "host": "*.kickasstorrents.to",
+      "enabled": true
+    },
+    {
+      "host": "*.kissanime.com.ru",
+      "enabled": true
+    },
+    {
+      "host": "*.kissanime.help",
+      "enabled": true
+    },
+    {
+      "host": "*.kissanimeru.com",
+      "enabled": true
+    },
+    {
+      "host": "*.kissmanga.in",
+      "enabled": true
+    },
+    {
+      "host": "*.kissmanga.org",
+      "enabled": true
+    },
+    {
+      "host": "*.luckypatchers.com",
+      "enabled": true
+    },
+    {
+      "host": "*.luckypatchers.info",
+      "enabled": true
+    },
+    {
+      "host": "*.luckyparcher.tools",
+      "enabled": true
+    },
+    {
+      "host": "*.luckypatchers.me",
+      "enabled": true
+    },
+    {
+      "host": "*.lucymodapk.com",
+      "enabled": true
+    },
+    {
+      "host": "*.magisk.me",
+      "enabled": true
+    },
+    {
+      "host": "*.magiskmanager.com",
+      "enabled": true
+    },
+    {
+      "host": "*.www.magiskmodule.com",
+      "enabled": true
+    },
+    {
+      "host": "*.malavida.com",
+      "enabled": true
+    },
+    {
+      "host": "*.mangadex.com",
+      "enabled": true
+    },
+    {
+      "host": "*.mangadex.dev",
+      "enabled": true
+    },
+    {
+      "host": "*.mangakakalot.to",
+      "enabled": true
+    },
+    {
+      "host": "*.mangakakalot.tv",
+      "enabled": true
+    },
+    {
+      "host": "*.mangakiss.org",
+      "enabled": true
+    },
+    {
+      "host": "*.en.aptoide.com",
+      "enabled": true
+    },
+    {
+      "host": "*.modded-1.com",
+      "enabled": true
+    },
+    {
+      "host": "*.modyolo.com",
+      "enabled": true
+    },
+    {
+      "host": "*.modyolo.com.co",
+      "enabled": true
+    },
+    {
+      "host": "*.modyolo.id",
+      "enabled": true
+    },
+    {
+      "host": "*.modyolo.io",
+      "enabled": true
+    },
+    {
+      "host": "*.modyoloapks.com",
+      "enabled": true
+    },
+    {
+      "host": "*.moviekhhd.biz",
+      "enabled": true
+    },
+    {
+      "host": "*.nosteam.ro",
+      "enabled": true
+    },
+    {
+      "host": "*.qq.com",
+      "enabled": true
+    },
+    {
+      "host": "*.quickapks.com",
+      "enabled": true
+    },
+    {
+      "host": "*.rarbg.live",
+      "enabled": true
+    },
+    {
+      "host": "*.rarbg.to",
+      "enabled": true
+    },
+    {
+      "host": "*.rarbg.tw",
+      "enabled": true
+    },
+    {
+      "host": "*.revanced.net",
+      "enabled": true
+    },
+    {
+      "host": "*.revanced.to",
+      "enabled": true
+    },
+    {
+      "host": "*.revancedapk.org",
+      "enabled": true
+    },
+    {
+      "host": "*.revancedextended.com",
+      "enabled": true
+    },
+    {
+      "host": "*.revancedextended.io",
+      "enabled": true
+    },
+    {
+      "host": "*.saashub.com",
+      "enabled": true
+    },
+    {
+      "host": "*.scmp.com",
+      "enabled": true
+    },
+    {
+      "host": "*.semrush.com",
+      "enabled": true
+    },
+    {
+      "host": "*.similarweb.com",
+      "enabled": true
+    },
+    {
+      "host": "*.softlay.com",
+      "enabled": true
+    },
+    {
+      "host": "*.softonic.com",
+      "enabled": true
+    },
+    {
+      "host": "*.someapps.org",
+      "enabled": true
+    },
+    {
+      "host": "*.tachiyomi.pro",
+      "enabled": true
+    },
+    {
+      "host": "*.techbigs.com",
+      "enabled": true
+    },
+    {
+      "host": "*.techylist.com",
+      "enabled": true
+    },
+    {
+      "host": "*.techzapk.net",
+      "enabled": true
+    },
+    {
+      "host": "*.telegram.org",
+      "enabled": true
+    },
+    {
+      "host": "*.torrentfreak.com",
+      "enabled": true
+    },
+    {
+      "host": "*.tradeit.gg",
+      "enabled": true
+    },
+    {
+      "host": "*.uptodown.com",
+      "enabled": true
+    },
+    {
+      "host": "*.v8cc6.com",
+      "enabled": true
+    },
+    {
+      "host": "*.web.telegram.org",
+      "enabled": true
+    },
+    {
+      "host": "*.weibo.com",
+      "enabled": true
+    },
+    {
+      "host": "*.wizcase.com",
+      "enabled": true
+    },
+    {
+      "host": "*.xranks.com",
+      "enabled": true
+    },
+    {
+      "host": "*.ya.ru",
+      "enabled": true
+    },
+    {
+      "host": "*.yandex.ru",
+      "enabled": true
+    }
+  ],
+  "allowed": [],
+  "redirected": []
+}
