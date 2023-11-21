@@ -10,6 +10,9 @@
 # If you have suggestions or problems with this list, you may contact me via Discord (https://discord.com/users/566384603007549480).
 # Spam messages will be ignored and blocked. Please do not attempt.
 #
+# Please use this format for adding new domains to be blocked
+# *127.0.0.1 DomainName.TLD* or *0.0.0.0 DomainName.TLD*
+#
 # -/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-
 
 127.0.0.1	1st-kissmanga.com
@@ -109,15 +112,15 @@
 127.0.0.1	modyolo.io
 127.0.0.1	modyoloapks.com
 127.0.0.1	moviekhhd.biz
-127.0.0.1 nhentai.io
-127.0.0.1 nhentai.to
-127.0.0.1 nhentai.xxx
-127.0.0.1 nhwntai.one
-127.0.0.1 nhentai.app
-127.0.0.1 nhentai.biz
-127.0.0.1 nhentaiyaioi.net
-127.0.0.1 nhentaiibr.com
-127.0.0.1 nhentai.com
+127.0.0.1       nhentai.io
+127.0.0.1       nhentai.to
+127.0.0.1       nhentai.xxx
+127.0.0.1       nhentai.one
+127.0.0.1       nhentai.app
+127.0.0.1       nhentai.biz
+127.0.0.1       nhentaiyaioi.net
+127.0.0.1       nhentaibr.com
+127.0.0.1       nhentai.com
 127.0.0.1	nosteam.ro
 127.0.0.1	qq.com
 127.0.0.1	quickapks.com
@@ -136,7 +139,7 @@
 127.0.0.1	softlay.com
 127.0.0.1	softonic.com
 127.0.0.1	someapps.org
-127.0.0.1 s.youtube.com
+127.0.0.1       s.youtube.com
 127.0.0.1	tachiyomi.pro
 127.0.0.1	techbigs.com
 127.0.0.1	techylist.com
