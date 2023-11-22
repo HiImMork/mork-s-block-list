@@ -55,10 +55,12 @@
 127.0.0.1	apktoy.com
 127.0.0.1	appbrain.com
 127.0.0.1	atlaq.com
+127.0.0.1	bard.com
 127.0.0.1	bruss.org.ru
 127.0.0.1	bunnycdn.ru
 127.0.0.1	business.facebook.com
 127.0.0.1	cafebazaar.ir
+127.0.0.1	chatgpt.com
 127.0.0.1	cnet.com
 127.0.0.1	dodi-repack.com
 127.0.0.1	doditorrent.org
@@ -166,28 +168,3 @@
 127.0.0.1	xranks.com
 127.0.0.1	ya.ru
 127.0.0.1	yandex.ru
-
-# For testing purposes:
-
-127.0.0.1	adnxs.com
-127.0.0.1	adsrvr.org
-127.0.0.1	adsymptotic.com
-127.0.0.1	advertising.com
-127.0.0.1	bounceexchange.com
-127.0.0.1	criteo.com
-127.0.0.1	criteo.net
-127.0.0.1	deployads.com
-127.0.0.1	doubleclick.net
-127.0.0.1	googlesyndication.com
-127.0.0.1	iasds01.com
-127.0.0.1	innovid.com
-127.0.0.1	liadm.com
-127.0.0.1	mfadsrvr.com
-127.0.0.1	moatads.com
-127.0.0.1	mopub.com
-127.0.0.1	outbrain.com
-127.0.0.1	outbrain.org
-127.0.0.1	pubmatic.com
-127.0.0.1	servebom.com
-127.0.0.1	taboola.com
-127.0.0.1	tapad.com
