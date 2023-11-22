@@ -14,7 +14,7 @@
 # *0.0.0.0 DomainName.TLD*
 #
 # -/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-
-        
+
 0.0.0.0 1st-kissmanga.com
 0.0.0.0 9anime.gs
 0.0.0.0 9anime.id
@@ -96,9 +96,12 @@
 0.0.0.0 fitgirl-repack.com
 0.0.0.0 fitgirlrepack.games
 0.0.0.0 fitgirl-repacks.website
+0.0.0.0 freetetris.org
 0.0.0.0 getmangahub.com
 0.0.0.0 getmodsapk.com
 0.0.0.0 getmodsapk.io
+0.0.0.0 gogoanime.tv
+0.0.0.0 gogoanime3.net
 0.0.0.0 googleads.com
 0.0.0.0 graph.facebook.com
 0.0.0.0 gumroad.com
@@ -132,6 +135,7 @@
 0.0.0.0 luckypatchers.info
 0.0.0.0 luckypatchers.me
 0.0.0.0 lucymodapk.com
+0.0.0.0 maegantucker.com
 0.0.0.0 magisk.me
 0.0.0.0 magiskmanager.com
 0.0.0.0 malavida.com
@@ -146,6 +150,10 @@
 0.0.0.0 modyolo.id
 0.0.0.0 modyolo.io
 0.0.0.0 modyoloapks.com
+0.0.0.0 monkeytype.club
+0.0.0.0 monkeytype.online
+0.0.0.0 monkey-type.org
+0.0.0.0 monkeytype.xyz
 0.0.0.0 moviekhhd.biz
 0.0.0.0 nhentai.app
 0.0.0.0 nhentai.biz
@@ -196,4 +204,3 @@
 0.0.0.0 xranks.com
 0.0.0.0 ya.ru
 0.0.0.0 yandex.ru
-
