@@ -1,3 +1,7 @@
+# This is a list of domains with no real formatting. You may use it to add to your blocklist in other adblocking services that does not support hostname blocking such as NextDNS, uBlock Origin, etc. 
+# You may fork this list however you like.
+# This list is based on the legacy list (https://raw.githubusercontent.com/HiImMork/mork-s-block-list/main/Legacy_Mork's%20List)
+
 1st-kissmanga.com
 9anime.se
 9animes.org
@@ -38,10 +42,12 @@ apk-store.org
 apktoy.com
 appbrain.com
 atlaq.com
+bard.com
 bruss.org.ru
 bunnycdn.ru
 business.facebook.com
 cafebazaar.ir
+chatgpt.com
 cnet.com
 dodi-repack.com
 doditorrent.org
@@ -57,6 +63,12 @@ getmodsapk.io
 googleads.com
 graph.facebook.com
 guru99.com
+hanime.com
+hanime.red
+hanime.watch
+hanime.xxx
+hanimes.org
+hanimehentai.tv
 happymod.cloud
 happymod.com
 happy-mod.com
@@ -64,6 +76,7 @@ happymod.info
 happymod.pro
 happymod.to
 happymodpro.com
+hentaihaven.org
 ihappymod.com
 izzysoft.de
 kickass.help
@@ -73,20 +86,21 @@ kissanime.help
 kissanimeru.com
 kissmanga.in
 kissmanga.org
-luckyparcher.tools
 luckypatchers.com
 luckypatchers.info
+luckyparcher.tools
 luckypatchers.me
 lucymodapk.com
 magisk.me
 magiskmanager.com
+www.magiskmodule.com
 malavida.com
 mangadex.com
 mangadex.dev
 mangakakalot.to
 mangakakalot.tv
 mangakiss.org
-mcdvuayq-laupagpjl.en.aptoide.com
+en.aptoide.com
 modded-1.com
 modyolo.com
 modyolo.com.co
@@ -94,7 +108,17 @@ modyolo.id
 modyolo.io
 modyoloapks.com
 moviekhhd.biz
+nhentai.app
+nhentai.biz
+nhentai.com
+nhentai.io
+nhentai.one
+nhentai.to
+nhentai.xxx
+nhentaibr.com
+nhentaiyaioi.net
 nosteam.ro
+porngameshub.com
 qq.com
 quickapks.com
 rarbg.live
@@ -112,13 +136,15 @@ similarweb.com
 softlay.com
 softonic.com
 someapps.org
-stickomanila.com
-t.me
+s.youtube.com
 tachiyomi.pro
 techbigs.com
 techylist.com
 techzapk.net
 telegram.org
+172.0.0.1	thepiratebay.org
+172.0.0.1	pirateproxy-bay.com
+172.0.0.1	pirate-bay-proxy.org
 torrentfreak.com
 tradeit.gg
 uptodown.com
@@ -126,7 +152,6 @@ v8cc6.com
 web.telegram.org
 weibo.com
 wizcase.com
-www.magiskmodule.com
 xranks.com
 ya.ru
 yandex.ru
